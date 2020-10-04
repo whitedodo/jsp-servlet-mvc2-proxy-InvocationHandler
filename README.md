@@ -21,7 +21,7 @@ JSP/Servlet-MVC2 - Proxy-InvocationHandler로 관점 프로그램 3단계를 구
 ##### (It is a primitive project that helps a lot in understanding AOP.)
 
 ### 2. 시연(Demonstration)
-##### 1. 
+##### 1. JSP/Servlet - MVC2 - Proxy InvocationHandler, https://youtu.be/mm2k61sQDc4, Accessed by 2020-10-04, Last Modified 2020-10-04.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-10-04, Last Modified .
